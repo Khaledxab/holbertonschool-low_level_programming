@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
-* main - Print with printf
+* main - Size
 * Return: 0
 */
 int main(void)
