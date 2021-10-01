@@ -2,23 +2,17 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* main - AlPhAbEt
+* main - print_alphabet
 * Return: 0
 */
 int main(void)
 {
 int e = '\n';
-int x = '0';
-int X = 'a';
-while (x <= '9')
+int x = 'z';
+while (x <= 'a')
 {
 putchar(x);
-x++;
-}
-while (X <= 'f')
-{
-putchar(X);
-X++;
+x--;
 }
 putchar (e);
 return (0);
