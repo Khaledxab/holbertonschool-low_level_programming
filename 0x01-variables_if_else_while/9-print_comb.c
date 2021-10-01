@@ -15,8 +15,8 @@ while (x <= '9')
 putchar(x);
 if (x != '9')
 {
-putchar(e);
 putchar(r);
+putchar(e);
 }
 x++;
 }
