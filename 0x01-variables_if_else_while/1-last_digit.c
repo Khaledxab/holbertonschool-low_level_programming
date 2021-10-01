@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* main - positive negative
+* main - LAST
 * Return: 0
 */
 int main(void)
