@@ -13,12 +13,12 @@ while (x <= 'z')
 {
 if (x != 'e' && x != 'q' )
 {
-putchar (x) ;
-x++ ;
+putchar (x);
+x++;
 }
-else 
+else
 {
-x++ ;
+x++;
 }
 }
 putchar (e);
