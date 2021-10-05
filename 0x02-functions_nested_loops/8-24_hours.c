@@ -1,8 +1,6 @@
 #include "main.h"
 /**
 * jack_bauer  - main.h / Time
-* @h: h to hours
-* @m: m to minutes
 * Return: 0
 */
 void jack_bauer(void)
