@@ -1,13 +1,13 @@
 #include "main.h"
-int main (void)
+int main(void)
 {
-char t[] = "_putchar" ;
- int i = 0;
-while ( t[i] != '\0' ) 
+char t[] = "_putchar";
+int i = 0;
+while(t[i] != '\0') 
 {
 _putchar(t[i]);
- i++;
+i++;
 }
- _putchar('\n');
- return 0;
+_putchar('\n');
+return (0);
 }
