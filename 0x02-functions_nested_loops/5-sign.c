@@ -20,9 +20,10 @@ _putchar(a);
 return (0);
 _putchar (b);
    }
-else if (n < 0)
+else 
   {
     return (-1);
 _putchar(c);
   }
+ 
 }
