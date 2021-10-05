@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* print_sign  - main.h / print if + or - or = 0 
+* print_sign  - main.h / print if + or - or = 0
 * @n: n to check
 * Return: 0
 */
@@ -16,7 +16,7 @@ else if (n < 0)
 _putchar ('-');
 return (-1);
 }
-else 
+else
 {
 _putchar('0');
 return (0);
