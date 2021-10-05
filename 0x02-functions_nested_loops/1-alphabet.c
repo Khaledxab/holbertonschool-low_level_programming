@@ -5,12 +5,11 @@
 */
 void print_alphabet(void)
 {
-int e = '\n';
-int x = 'a';
+char x = 'a';
 while (x <= 'z')
 {
 _putchar(x);
 x++;
 }
-_putchar (e);
+_putchar ('\n');
 }
