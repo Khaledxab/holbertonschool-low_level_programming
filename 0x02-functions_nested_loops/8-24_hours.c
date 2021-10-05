@@ -1,7 +1,8 @@
 #include "main.h"
 /**
-* print_last_digit  - main.h / print last digit
-* @n: n to check
+* jack_bauer  - main.h / Time
+* @h: h to hours
+* @m: m to minutes
 * Return: 0
 */
 void jack_bauer(void)
