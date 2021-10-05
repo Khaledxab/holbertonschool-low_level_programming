@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* print_last_digit  - main.h / print last digit 
+* print_last_digit  - main.h / print last digit
 * @n: n to check
 * Return: 0
 */
