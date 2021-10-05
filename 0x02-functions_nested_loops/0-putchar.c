@@ -1,4 +1,8 @@
 #include "main.h"
+/**
+* main - main.h / puchar = _putchar
+* Return: 0
+*/
 int main(void)
 {
 char t[] = "_putchar";
