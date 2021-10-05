@@ -4,7 +4,7 @@
 * r = row c = column d = digits
 * Return: 0
 */
-void times_table(void);
+void times_table(void)
 {
 int r, c, d;
 
