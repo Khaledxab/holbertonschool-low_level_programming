@@ -6,24 +6,19 @@
 */
 int print_sign(int n)
 {
-int a = '+' ;
-int b = '0' ;
-int c = '-' ;
 if (n > 0)
-  {
-  return (1);
-_putchar(a);
-
-  }
- else if (n == 0)
-   {
-return (0);
-_putchar (b);
-   }
+{
+_putchar('+');
+return (1);
+}
+else if (n < 0)
+{
+_putchar ('-');
+return (-1);
+}
 else 
-  {
-    return (-1);
-_putchar(c);
-  }
- 
+{
+_putchar('0');
+return (0);
+}
 }
