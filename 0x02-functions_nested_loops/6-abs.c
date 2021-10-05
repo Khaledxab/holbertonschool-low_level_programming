@@ -1,5 +1,4 @@
-
-0;10;1c#include "main.h"
+#include "main.h"
 /**
 * _abs  - main.h / returns the absolute value of an integer
 * @n: n to check
