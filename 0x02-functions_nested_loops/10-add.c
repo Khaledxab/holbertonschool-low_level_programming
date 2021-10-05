@@ -4,7 +4,7 @@
 * @first: first number @second: second number 
 * Return: 0
 */
-int add(first, second)
+int add(int first,int second)
 {
 return (first + second);
 }
