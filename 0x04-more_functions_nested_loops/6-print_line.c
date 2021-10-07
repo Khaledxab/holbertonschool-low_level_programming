@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * more_numbers - Prints the numbers 0-14 ten times.
+ * print_line - Draws a straight line with_
+ * @n: number of _
  */
 void print_line(int n)
 {
