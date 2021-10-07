@@ -6,16 +6,16 @@
  */
 void print_triangle(int size)
 {
-	int h, i;
+	int h,index;
 
-	if (size > 0)
+	if(size > 0)
 	{
 		for (h = 1; h <= size; h++)
 		{
-			for (i = size - h; i > 0; i--)
+			for (index = size - h; index > 0; index--)
 				_putchar(' ');
 
-			for (i = 0; i < hash; i++)
+			for (index = 0; index < hash; i++)
 				_putchar('#');
 
 			if (h == size)
