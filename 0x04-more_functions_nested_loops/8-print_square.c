@@ -14,12 +14,9 @@ int y;
 		{
 
 		for (y = 1; y <= size; y++)
-		
 		{
-			
 			_putchar('#');
 		}
-		
 		_putchar('\n');
 		}
 	}
