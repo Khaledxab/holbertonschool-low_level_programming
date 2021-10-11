@@ -3,8 +3,8 @@
 
 /**
  *print_array - print an array
- *@n: elements of array
- *@a: array pointer
+ *@n: int of array
+ *@a: int pointer
  *
  *Return: nothing
  */
