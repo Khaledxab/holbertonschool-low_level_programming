@@ -2,7 +2,7 @@
 int check(int i, int n);
 /**
  * check - returns 1 if n is prime, 0 otherwise
- * @n: number for checking 
+ * @n: number for checking
  * @i: possible factor of n
  *
  *Return: return 1 if prime or 0 if not
