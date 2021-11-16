@@ -5,7 +5,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* LIST */
+/**
+* struct listint_s - singly linked list
+* @n: NUM
+* @next: point to next node
+*/
 typedef struct listint_s
 {
 	int n;
