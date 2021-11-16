@@ -1,6 +1,6 @@
 #include "lists.h"
 /**
- * listint_len - list.
+ * list_len - list.
  * @h :a variable that points to a listint_t struct.
  * Return: the number of nodes.
  */
