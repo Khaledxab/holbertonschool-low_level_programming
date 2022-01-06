@@ -3,15 +3,15 @@
 /**
  * dlistint_len - get len
  * Return: len
- * @a: list
+ * @h: list
  */
-size_t dlistint_len(const dlistint_t *a)
+size_t dlistint_len(const dlistint_t *h)
 {
 	int size = 0;
 
-	while (a)
+	while (h)
 	{
-		a = a->next;
+		h = h->next;
 		s++;
 	}
 	return (s);
